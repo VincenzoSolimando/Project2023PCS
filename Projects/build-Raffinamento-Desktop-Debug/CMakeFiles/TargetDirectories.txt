@@ -1,0 +1,8 @@
+C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/CMakeFiles/raffinamento_test.dir
+C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/CMakeFiles/raffinamento_program.dir
+C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/test/CMakeFiles/rebuild_cache.dir

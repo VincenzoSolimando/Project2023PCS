@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/raffinamento_test[1]_tests.cmake")
+  include("C:/Users/Aliprandi/Desktop/PCS2023_Exercises/Projects/build-Raffinamento-Desktop-Debug/raffinamento_test[1]_tests.cmake")
+else()
+  add_test(raffinamento_test_NOT_BUILT raffinamento_test_NOT_BUILT)
+endif()
